@@ -54,6 +54,7 @@ KnewOne talk question list
 - SAMSUNG T310 + 32G SD 扩展空间, 作为移动媒体中心
 - Kindle paperwhite 一代, 作为主力阅读平台
 - SANYOICR-B001M 录音笔 ~ 进行客观记录
+- [Logitech® HD Pro Webcam C920](http://www.logitech.com/en-us/product/hd-pro-webcam-c920) ~ 作为 Hangout 直播的硬件
 - 小米电池 10400ma
 - TP-LINK WR702n mini AP ~ 用来替代酒店的样子 wifi 
 
@@ -73,6 +74,19 @@ KnewOne talk question list
 
 - [佩洛 单人沙发/扶手椅 - IKEA](http://www.ikea.com/cn/zh/catalog/products/90160720/) 是用过的最物美价廉的生活品了,就是缺少一个脚垫,可是那垫子比沙发本身都差不多了,,,
 - 理光 GRD1 ~ 在 MINOLTA DiMAGE F100 停产后买的口袋机, 拍摄了超过4万张照片,直接拍废了...实在是街拍神器!
+- MOLESKINE Art Plus Sketch Album Pcket size
+    + 横版
+    + 软皮
+    + 配合 LAMY safari狩猎者宝珠笔(签字笔)磨砂黑
+    + 那叫个贴心...
+    + 因为要配合自个儿的 GTD+时间管理改进,需要一种可以随身携带,各种姿势都能快速记要各种信息的纸笔组合
+    + 原先是 daolen A6 线圈本,硬皮有松紧带,夹的笔尝试过各种笔,包括樱花的绘图笔
+    + 可是总是有点不合意, 终于在持续看了几年 MOLESKINE 的软文后,土豪了一回,淘到相对可接受的软面素描本
+    + 又刚好有机会去了台北的诚品,现场抢到最后一只 LAMY safari
+    + 配合起来才发现,真的很值这么多米
+    + MOLESKINE 的作工不用说了,而且有收纳袋在最后,可以放名片/口令纸条什么的
+    + LAMY 的三角形笔杆,以及 0.7 的粗芯,流畅! 在 MOLESKINE 的中性纸上无论怎么折腾,都好象在进行原画探索似的,特别适合用 思维导图的形式来快速记要/安排/追踪每日事务
+    + 这一组合,一用,就再也丢不了了,,,
 
 ###4 近期内最想要什么产品?或者在关注的事物?
 
@@ -86,6 +100,7 @@ KnewOne talk question list
 
 ## 参考
 ~~ http://knewone.com/explore/talks
+
 - 可以向我提pr提交回答,感谢:)
 - 产品使用体验方面,请稍微写得详细一些,谢谢
 
