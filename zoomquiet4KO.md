@@ -35,7 +35,6 @@ KnewOne talk question list
     + actto 杂牌支架
     + microlab 4.1 有源音箱 (用了超过8年)
     + AKG K99 耳机
-    + 
 - 备用机器
     + ThinkPad X230i ~ 只是进行 M$ 环境测试用
     + Chromebook Pixel 32G 国际版 ~ 基本用来展示和进行 Hangout 中控机
@@ -44,6 +43,9 @@ KnewOne talk question list
     + CubieBoard3 A20 ARM® Cortex™-A7 Dual
     + 配 2Tb 2.5 HHD,拖3.5 外置硬盘盒,驱动 2Tb 旧硬盘
     + 形成一个 4T 的家庭多媒体中心,负责下载/媒体分发,以及工作备份
+- Moto 360 
+    + Google I/O 2014 的礼品纯粹样子货
+    + 在有随身设备升级到 Android 4.4 以上前,基本就是个手表+计步器
 
 移动时:
 
@@ -79,7 +81,7 @@ KnewOne talk question list
 - HHKB pro ~ 只要是程序猿,没人不想要的吧
 - Herman Miller Aeron ~ 同上
 - ATH-M50xBK (AKG K712 PRO 更好,但是...)
-- 理光 GRD4 ~ 相比 GR1 , GRD4 的 F1.9 实在更加有力
+- 理光 GRD IV ~ 相比 GR1 , GRD4 的 F1.9 实在更加有力
 - MINI Cooper ~ 这个只能梦中了,,,现在驾照都没有...
 
 ## 参考
