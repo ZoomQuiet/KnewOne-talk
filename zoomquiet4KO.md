@@ -74,9 +74,10 @@ KnewOne talk question list
 
 - [佩洛 单人沙发/扶手椅 - IKEA](http://www.ikea.com/cn/zh/catalog/products/90160720/) 是用过的最物美价廉的生活品了,就是缺少一个脚垫,可是那垫子比沙发本身都差不多了,,,
 - 理光 GRD1 ~ 在 MINOLTA DiMAGE F100 停产后买的口袋机, 拍摄了超过4万张照片,直接拍废了...实在是街拍神器!
-- MOLESKINE Art Plus Sketch Album Pcket size
+- MOLESKINE Plain Reporter Notebook
+    - 9x14cm - 3.5x5.5" acid-free paper 
     + 横版
-    + 软皮
+    + 软皮 soft cover
     + 配合 LAMY safari 狩猎者宝珠笔(签字笔)磨砂黑
     + 那叫个贴心...
     + 因为要配合自个儿的 GTD+时间管理改进,需要一种可以随身携带,各种姿势都能快速记要各种信息的纸笔组合
